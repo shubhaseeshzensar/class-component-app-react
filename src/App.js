@@ -17,12 +17,8 @@ class App extends Component {
   //   users: [],
   // };
 
-  //state = {
-  // users: [],
-  //};
-
   // nameChangeHandler = () => {
-  //   this.setState({    });
+  //   this.setState({});
   //   console.log(this.state);
   // };
   componentDidMount() {
